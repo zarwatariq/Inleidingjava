@@ -1,0 +1,15 @@
+Vragen
+
+1  Wat is machinetaal?
+    - Machinetaal is een reeks opdrachten in enen en nullen die de processor begrijpt.
+      De compiler vertaalt de broncode in machinetaal.
+2  Welke drie hulpmiddelen heb je nodig om te programmeren?
+    - 1 Tekest verwerker
+      2 compiler
+      3 linker
+3  Hoe herken je opdrachten in de broncode?
+    - Door middel van Compiler
+4  Waartoe dienen de import-opdrachten?
+    - door middel van Import haal je packages uit klassen bibliotheek.
+5  Wat is een methode?
+    - Het zijn aantal opdrachten
